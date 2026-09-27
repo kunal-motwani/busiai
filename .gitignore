@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Build
+.next/
+out/
+build/
+dist/
+*.egg-info/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+CLAUDE.md
+AGENTS.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Test
+.pytest_cache/
+coverage/
+.coverage
+htmlcov/
+
+# Misc
+*.log

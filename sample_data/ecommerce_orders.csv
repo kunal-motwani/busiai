@@ -1,0 +1,25 @@
+order_id,order_date,customer_segment,product_category,sub_category,region,sales_amount,cost_amount,profit,discount_rate,quantity
+ORD-1001,05-01-2025,Consumer,Electronics,Smartphones,North,1200,750,450,0.05,2
+ORD-1002,07-01-2025,Corporate,Furniture,Chairs,South,450,280,170,0.1,3
+ORD-1003,12-01-2025,Small Business,Office Supplies,Binders,East,85,35,50,0,5
+ORD-1004,18-01-2025,Consumer,Electronics,Laptops,West,2400,1600,800,0.05,2
+ORD-1005,03-02-2025,Consumer,Furniture,Tables,North,890,620,270,0.15,1
+ORD-1006,14-02-2025,Corporate,Electronics,Accessories,East,150,60,90,0,4
+ORD-1007,22-02-2025,Consumer,Office Supplies,Paper,South,65,25,40,0,10
+ORD-1008,01-03-2025,Small Business,Electronics,Smartphones,West,1800,1150,650,0.08,3
+ORD-1009,10-03-2025,Consumer,Furniture,Chairs,North,620,380,240,0.1,4
+ORD-1010,25-03-2025,Corporate,Electronics,Laptops,South,3600,2400,1200,0.05,3
+ORD-1011,04-04-2025,Consumer,Office Supplies,Storage,East,320,180,140,0,2
+ORD-1012,18-04-2025,Small Business,Furniture,Bookcases,West,1100,790,310,0.12,2
+ORD-1013,02-05-2025,Consumer,Electronics,Smartphones,North,2400,1500,900,0.05,4
+ORD-1014,19-05-2025,Corporate,Office Supplies,Appliances,South,780,460,320,0,2
+ORD-1015,08-06-2025,Consumer,Furniture,Tables,East,950,660,290,0.1,1
+ORD-1016,21-06-2025,Small Business,Electronics,Laptops,West,4800,3200,1600,0.05,4
+ORD-1017,04-07-2025,Consumer,Electronics,Accessories,North,280,110,170,0,6
+ORD-1018,29-07-2025,Corporate,Furniture,Chairs,East,1250,780,470,0.08,8
+ORD-1019,11-08-2025,Consumer,Office Supplies,Binders,South,95,40,55,0,6
+ORD-1020,25-08-2025,Small Business,Electronics,Smartphones,West,1200,750,450,0.05,2
+ORD-1021,03-09-2025,Consumer,Furniture,Bookcases,North,1400,980,420,0.1,2
+ORD-1022,17-09-2025,Corporate,Electronics,Laptops,East,6000,4000,2000,0.05,5
+ORD-1023,05-10-2025,Consumer,Office Supplies,Paper,West,120,45,75,0,12
+ORD-1024,22-10-2025,Small Business,Furniture,Chairs,South,750,460,290,0.05,5
